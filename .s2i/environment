@@ -1,5 +1,5 @@
 #APP_CONFIG=config.py
-APP_FILE=wsgi.py
+APP_FILE=app.py
 PIP_INDEX_URL=http://AqV5U2_a:ZhiqlA5Yh-9XUsNyLVqp1wtuJrdNTEZVjjH2Jz74rktF@nexus-repo.apphp.ocp.na.xom.com/repository/pypi-proxy/simple/
 PIP_INDEX=http://nexus-repo.apphp.ocp.na.xom.com/repository/pypi-proxy/
 PIP_TRUSTED_HOST=nexus-repo.apphp.ocp.na.xom.com
